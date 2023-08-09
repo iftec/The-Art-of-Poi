@@ -1,6 +1,16 @@
 /* import fonts from google */
 @import url('https://fonts.googleapis.com/css2?family=Syncopate&display=swap');
+
 /* set global element styles */
 body {
     background-color: rgb(22, 22, 22);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Syncopate', Arial, Helvetica, sans-serif;
+    color: rgb(31, 31, 31);
 }
