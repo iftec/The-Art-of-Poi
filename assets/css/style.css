@@ -1,5 +1,5 @@
 /* import fonts from google */
-@import url('https://fonts.googleapis.com/css2?family=Syncopate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@400;700&display=swap');
 
 /* set global element styles */
 body {
@@ -79,12 +79,12 @@ header {
 }
 /* Start hero styling*/
 #hero-text-box {
-    width: 500px;
+    width: 400px;
     height: auto;
-    background-color: #f0f0f094;
+    background-color: #63606094;
     position: relative;
     top:300px;
-    right:5%;
+    right:3%;
     float: right;
     text-align: center;
     padding: 60px;
@@ -92,6 +92,8 @@ header {
 
 #hero-text-box h1 {
     font-size: 3.0rem;
+    color: white
+    
 }
 
 /*End of hero styling */
