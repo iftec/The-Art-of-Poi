@@ -87,13 +87,17 @@ header {
     right:3%;
     float: right;
     text-align: center;
-    padding: 60px;
+    padding: 30px;
 }
 
 #hero-text-box h1 {
     font-size: 3.0rem;
     color: white
     
+}
+
+#hero-text-box h2 {
+    color: white;
 }
 
 /*End of hero styling */
