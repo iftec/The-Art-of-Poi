@@ -107,6 +107,7 @@ header {
  }
 
  .circle-images {
+    padding-top: 60px;
     display: block;
     width: 30%;
     text-align: center;
@@ -142,4 +143,5 @@ header {
     width: 100px;
     height: 40px;
     margin: 60px auto;
+    display: block;
  }
