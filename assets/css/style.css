@@ -188,6 +188,15 @@ header {
 
  /*  contact form container*/
 
+ #form-container {
+    background-color: rgb(102, 102, 105);
+    text-align: center;
+    height: 230px;
+ }
+
+ #feedback {
+    height: 100px;
+ }
  
   /* Style footer  */
 
