@@ -146,7 +146,7 @@ header {
  }
 
  .classes-button {
-    width: 100px;
+    width: 120px;
     height: 40px;
     margin: 60px auto;
     display: block;
@@ -204,12 +204,55 @@ header {
   footer {
     width: 100%;
     height: 100px;
+    border-top: 1px solid white;
+    
  }
 
- 
+
+ .social-icons > li {
+    Float: left;
+    margin: 25px;
+    
+ }
+
+ .fa-phone{
+    margin-right: 10px;
+ }
+
  .social-icons {
-    color: #f0f0f0;
+    width: 70%;
+    list-style: none;
+    color: white;
+   margin: 0 auto;
+   padding-left: 9%;
+   font-size: 1.1rem;
+ }
+
+ .social-icons >li >a {
+    color: white;
+
+ }
+
+ .footer-div {
+    width: 20%;
+    height: inherit;
+    Float: left
  }
  
+ .footer-content {
+    width: 60%;
+    height: inherit;
+    Float: left
+ }
+ 
+ .footer-content > ul {
+    list-style: none;
+    width:100%;
+    height:40px;
+    margin-top: 30px;
+
+ }
+
+
  /* burger menu to be added below*/
  
