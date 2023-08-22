@@ -117,6 +117,10 @@ header {
     text-align: center;
  }
  
+ .circle-images-mobile {
+   
+    display: none;
+ }
  .circle {
     width: 100%;
     height: 300px;
@@ -255,6 +259,20 @@ header {
     .circle-images {
        display: none;
      }
+
+     .circle-images-mobile {
+        display: block;
+        width: 100%;
+        text-align: center;
+     }
+     
+     .homepage-text h2, .homepage-text h3 {
+        color: #f0f0f0;
+        font-size: 2.0rem;
+        text-align: center;
+        margin: 20px 40px;
+     }
+
     #feedback {
         height: 100px;
         width: 250px;
