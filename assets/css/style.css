@@ -162,6 +162,10 @@ header {
     height: 230px;
  }
 
+ .label-form{
+    padding:1px;  
+ }
+
  #feedback {
     height: 100px;
     
@@ -179,8 +183,7 @@ header {
 
  .social-icons > li {
     Float: left;
-    margin: 25px;
-    
+    margin: 25px;  
  }
 
  .fa-phone{
@@ -192,7 +195,7 @@ header {
     list-style: none;
     color: white;
    margin: 0 auto;
-   padding-left: 9%;
+   padding-left: 20%;
    font-size: 1.1rem;
  }
 
@@ -213,7 +216,7 @@ header {
     Float: left
  }
  
- .footer-content > ul {
+ .footer-content >ul {
     list-style: none;
     width:100%;
     height:40px;
@@ -221,6 +224,75 @@ header {
 
  }
 
+ /* media Query added below*/
+ 
+ @media screen and (max-width:643px) {
+    .left-container {
+        display:none;
+    }
 
+    #hero-text-box {
+        width: 250px;
+        height: auto;
+        position: relative;
+        top:300px;
+        padding: 30px;
+    }
+    
+    .right-container {
+        width: 100%;
+    }
+    .text-container {
+        float: left;
+        width:100% ;
+    }
+
+    .circle-images {
+       display: none;
+     }
+    #feedback {
+        height: 100px;
+        width: 250px;
+    } 
+
+    .fluid-container {
+    height: auto;
+    margin-left: 20%;
+    }
+    .homepage-text {
+    width: 90%;
+    margin: 0 5%;
+   
+    }
+    .footer-content {
+    width: 100%;
+    height: 20px;
+    Float: left
+
+    }
+
+    .footer {
+    width: 100%;
+    height: 10%;
+
+     }
+    .footer-content >ul {
+    height:10px;
+    margin-top: 15px;
+    margin-left: 1%;
+     }
+    .social-icons > li {
+    margin: 5px;
+    padding: 1.%;
+    
+    }
+
+    .footer-div {
+        width: 10%;
+        height: 10px;
+        Float: left
+     }
+}
  /* burger menu to be added below*/
+ 
  
