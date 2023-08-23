@@ -116,6 +116,14 @@ header {
     width: 30%;
     text-align: center;
  }
+
+ .circle-images-map {
+    padding-top: 60px;
+    display: block;
+    width: 100%;
+    text-align: center;
+
+ }
  
  .circle-images-mobile {
    
@@ -168,7 +176,7 @@ header {
  #form-container {
     background-color: rgb(102, 102, 105);
     text-align: center;
-    height: 240px;
+    height: 300px;
  }
 .send-button {
     width: 80px;
@@ -182,6 +190,11 @@ header {
  #feedback {
     height: 100px;
     
+ }
+
+ .input-form {
+    height: 25px;
+    width: 200px;
  }
  
   /* Style footer  */
@@ -255,8 +268,14 @@ header {
     }
     #form-container {
     
-        height: 300px;
+        height: 350px;
      } 
+
+     #feedback {
+        height: 150px;
+        width:500px;
+        
+     }
    
 }
 
@@ -300,7 +319,7 @@ header {
 
     #feedback {
         height: 100px;
-        width: 250px;
+        width: 300px;
     } 
 
     .fluid-container {
