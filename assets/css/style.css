@@ -368,7 +368,12 @@ header {
     }
 }
 
-
+@media screen and (max-width:335px) {
+    #feedback {
+        height: 100px;
+        width: 250px;
+    } 
+}
 
  /* burger menu to be added below*/
  
