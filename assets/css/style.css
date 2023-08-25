@@ -10,6 +10,17 @@ body {
     padding: 0;
 }
 
+a:link {
+   color: rgba(192, 121, 27, 0.842);
+   text-decoration: none;
+}
+a:visited {
+   color: pink;
+   background-color: transparent;
+   text-decoration: none;
+ }
+
+
 h1, h2, h3 {
     font-family: 'Syncopate', Arial, Helvetica, sans-serif;
     color: rgb(253, 250, 250);
