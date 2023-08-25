@@ -197,59 +197,28 @@ header {
     width: 200px;
  }
  
-  /* Style footer  */
+  /*Footer styling below*/
 
-  footer {
-    width: 100%;
-    height: 100px;
-    border-top: 1px solid white;
-    
+ #container-footer {
+          
+      /* Using the grid property */
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+
+      /* Making equal spaced divs */
+      gap: 1rem;
  }
 
-
- .social-icons > li {
-    Float: left;
-    margin: 25px;  
+  .box {
+   
+      height: 5vh;
+      text-align: center;
+      padding-top: 5%;
  }
 
- .fa-phone{
-    margin-right: 10px;
+  #container-footer a{
+   color: white;
  }
-
- .social-icons {
-    width: 70%;
-    list-style: none;
-    color: white;
-   margin: 0 auto;
-   padding-left: 20%;
-   font-size: 1.1rem;
- }
-
- .social-icons >li >a {
-    color: white;
-
- }
-
- .footer-div {
-    width: 20%;
-    height: inherit;
-    Float: left
- }
-
- .footer-content {
-    width: 60%;
-    height: inherit;
-    Float: left
- }
- 
- .footer-content >ul {
-    list-style: none;
-    width:100%;
-    height:40px;
-    margin-top: 30px;
-
- }
-
  /* media Query added below*/
 
  @media screen and (min-width: 1025px) {
@@ -265,7 +234,7 @@ header {
     width: 200px;
     height: 40px;
     padding-top: 1.2%;
-    }
+      }
     #form-container {
     
         height: 350px;
@@ -277,12 +246,17 @@ header {
         
      }
    
-}
+   }
 
  @media screen and (max-width:643px) {
+   
+    header {
+        width: 100%;
+        height: 95px;  
+      }
     .left-container {
         display:none;
-    }
+      }
 
     #hero-text-box {
         width: 250px;
@@ -290,90 +264,56 @@ header {
         position: relative;
         top:300px;
         padding: 30px;
-    }
+      }
     
     .right-container {
         width: 100%;
-    }
+      }
     .text-container {
         float: left;
         width:100% ;
-    }
+      }
 
     .circle-images {
        display: none;
-     }
+      }
 
      .circle-images-mobile {
         display: block;
         width: 100%;
         text-align: center;
-     }
+      }
      
      .homepage-text h2, .homepage-text h3 {
         color: #f0f0f0;
         font-size: 2.0rem;
         text-align: center;
         margin: 20px 40px;
-     }
+      }
 
     #feedback {
         height: 100px;
         width: 300px;
-    } 
+      } 
 
     .fluid-container {
-    height: auto;
-    margin-left: 20%;
-    }
+      height: auto;
+      margin-left: 20%;
+      }
     .homepage-text {
-    width: 90%;
-    margin: 0 5%;
+      width: 90%;
+      margin: 0 5%;
    
-    }
-    .footer-content {
-    width: 100%;
-    height: 20px;
-    Float: left
-
-    }
-
-    .footer {
-    width: 100%;
-    height: 10%;
-
-     }
-    .footer-content >ul {
-    height:10px;
-    margin-top: 15px;
-    margin-left: 1%;
-     }
-    .social-icons > li {
-    margin: 5px;
-    padding: 1.%;
+      }
     
-    }
-
-    .footer-div {
-        width: 10%;
-        height: 10px;
-        Float: left
-     }
-}
-
-@media screen and (max-width:643px) {
-    header {
-        width: 100%;
-        height: 95px;  
-    }
-}
+   }
 
 @media screen and (max-width:335px) {
     #feedback {
         height: 100px;
         width: 250px;
-    } 
-}
+      } 
+   }
 
  /* burger menu to be added below*/
  
