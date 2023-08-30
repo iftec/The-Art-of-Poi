@@ -151,6 +151,17 @@ header {
     border-radius: 50%;
 }
 
+.scan {
+  width: 100%;
+  height: 300px;
+  margin: 100px auto;
+}
+.scan-me {
+  padding-left: 10px;
+  display: block;
+  width: 50%;
+  margin: 100px auto;
+}
  .homepage-text {
     width: 60%;
     height: 100%;
@@ -255,7 +266,8 @@ header {
         width:500px;
         
      }
-   
+  
+  
    }
 
    @media screen and (max-width:1024px) {
@@ -263,6 +275,12 @@ header {
     .circle {
     margin: 40px auto;
       }
+    .scan-me {
+    display:none;
+      } 
+    .scan {
+    display:none;
+      }     
    }
 
    @media screen and (max-width:789px) {
