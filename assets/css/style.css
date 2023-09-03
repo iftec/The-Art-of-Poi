@@ -85,7 +85,9 @@ header {
     background-color: rgb(22, 22, 22);
     z-index: 5; /*make sure the top bar sits above everything else when scrolling*/
 }
-.logo-top {
+}
+/*old -logo*/
+/*.logo-top {
     width: 45%;
     height: 100%;
     margin: 20px 0 0 20px;
@@ -96,8 +98,10 @@ header {
     font-family:'Syncopate', Arial, Helvetica, sans-serif;
 
 }
-/*style menu*/
-.menu {
+*/
+
+/* old style menu*/
+/*.menu {
     width: 45%;
     height: 100%;
     float: right;
@@ -127,6 +131,7 @@ header {
 .nav-link a:hover {
     text-decoration: underline;
 }
+*/
 
 #hero-container {
     width: 100%;
