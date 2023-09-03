@@ -352,6 +352,25 @@ header {
       margin: 0 5%;
    
       }
+
+  @media screen and (max-width:354px) {
+    #feedback {
+      width:240px;
+      }
+      .input-form {
+        width: 180px;
+      }  
+      #hero-text-box {
+        font-size: .7rem;
+    }
+    .main-nav {
+      display: flex;
+      height: 10vh;
+     
+      
+      
+      }
+      }
     
 }
 
