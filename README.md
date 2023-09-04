@@ -146,6 +146,7 @@ I made a decision at the start of this project that I would try and challange my
 - I've used a dark background for users to feel less tired while reading,  I think this also helps images to stand out versus a white background.
 - Contrast of fonts between header and proceeding text. Helps the pages as a whole look less monotonous, and the Syncopate font helps capture the user’s attention.
 - Consistent round images used throughout the project are inline with the shape of the Poi, again gives a consistancy to the project for the user and helps the user take a break from the text and help the paragraphs appear smaller. All images are relevant to the content.
+
 **Features left to implement**
 
 Once I have some understanding of JavaScript, I would like to implement it into this project more, and make it more interactive and less static.
