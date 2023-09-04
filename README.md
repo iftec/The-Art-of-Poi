@@ -7,7 +7,7 @@
 
 
 # Introduction
-Welcome to my first milestone project, The Art of Poi
+Welcome to my first milestone project, The Art of Poi.
 Earlier this year I enrolled in a Full Stack Development course, with the hopes of changing my career and becoming a programmer. Up to this point in my career, I have worked in multiple sectors, of IT  and have always flirted around the side of coding but never really understood it properly
 The purpose of this project is to show my learning and understanding of the modules and languages I have learned, to implement them into a project to showcase my skills in design and development. This project is a functional static-website, built mainly with HTML and CSS.
 I will outline the steps I used to build the project and the philosophy used to plan the project, my sources of inspiration, and my focus on user experience design.
@@ -61,3 +61,65 @@ Returning visitor goals:
 
 - As a returning visitor, I want to be able to get in contact with the creator or creators in some way, social links, or contact page.
 - As a returning visitor, I want to be able to find out where the source of the information came from.
+
+From my user stories, I am better able to come up with a conceptual idea of what the project needs in terms of features, which features have more priority.
+
+During my initial planning for the project, I was planning to make the project on Learning Poi. So, I decided to some research, friends, acquaintances, and work colleagues to understand better which content was more important. 
+
+While doing my research I quickly noticed when asking, what would you like to know about Poi, a correlation on the feedback being received. I was assuming everyone knew about Poi without introducing it.
+
+From the feedback, I was also able to gain an understanding of what I should include in my project from the first release. Common questions being asked while doing research was,
+
+    1. What is Poi and how did it originate?
+    2. Why would they want to learn Poi, are there any health benifits?
+    3. Would it cost a lot to buy a set of Poi spinners?
+    4. Where can they go to learn it, are there any classes?
+    5. Who can they contact?
+## Scope Plane
+Based on the Strategy goals I can establish that trying to include everything I want, and what the users would like from the research was not going to be feasible from my initial release. The easiest way to approach this would be to start with a minimum viable product, that would answer the question that came up the most.
+
+From there a phased approach would be most ideal, which allowed me to manage the workload and give me some room to build on any feedback I receive.
+
+My plan for a phased release would be,
+
+Phase 1 -
+
+- A home page with a small introduction to Poi and the health benifits.
+- A Classes section.
+- A Build a Poi section.
+ - A Contact section.
+
+Phase 2 -
+
+- A gallery section.
+- A online lessons section.
+- An active social forum
+
+Having a phased approach to the project may allows users to feel more interested when a new version is deployed with extra elements and allows me time to collect feedback and better understand flaws with my initial design or development and to help me grow. Also allows me to implement new skills I have learned and build upon the initial design.
+
+
+## Structure Plane
+Knowing from the beginning that the project was going to be visual, the biggest hurdle was going to be how to keep users interested and to not be put off by the text. Sources for inspiration to overcome this came from my mentor Harry Dhillon and Steve Krug's "Don't Make Me Think".
+Visiting other Poi websites also helped.
+
+Colours -
+
+Black
+Grey
+White and off White
+Black background to start with to make it more relaxing for users to read and make it less exhausting on their eyes. Also allowed for images to stand out and draw attention.
+
+Typography –
+
+Syncopate
+Arial
+I used Syncopate to offer a contrast to the Arial font, it also allowed the project to not look monotonous. Syncopate is quite easy to read and is a modern font.
+
+Consistency with the Navigation Bar and Footer elements because they will be recurring elements.Having a fixed navigation bar allowed users to have access to navigation links while scrolling through the page with social media links in the Footer.
+
+
+Consistent imagery throughout the project, not only to help condense the text but to also give the user something to view and feel as though they can take a breath. Images should be relatable to the content on the page and not feel forced or out of place.
+
+The text will be consistent throughout the page and the content of the page aligned to the right. So that the user feels familiar with the site as the progress down a page.
+
+Responsive across all devices, to make images scale properly and do not end up pixelated, text is readable on all devices.
