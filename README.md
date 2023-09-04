@@ -191,3 +191,80 @@ Used to create the wireframes for the project.
 
 Used to fix grammar errors across the project.
 ## Testing
+The project was tested on the following browsers with success, Google Chrome, Microsoft Edge, Mozilla Firefox, and Opera.
+Project was manually tested on a Samsung Zflip 3 and a Samsung A70 with success.
+Google Chrome Developer tools were used throughout the project to help me to test the responsiveness across devices.
+Google Chrome Developer tools used to emulate devices,
+- Apple iPad
+- Apple iPad Pro
+- Microsoft Surface Duo
+- Motorola G4
+- Samsung Galaxy S5
+- Samsung Galaxy Fold
+- Google Pixel 2/2 XL
+- Apple iphone 4
+- Apple iPhone 5/SE
+- Apple iPhone 6/7/8
+- Apple iPhone 6/7/8 Plus
+- Apple iPhone X
+I used the W3C Markup Validator and W3C CSS Validator to validate the project and to ensure there were no syntax errors in the project.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+    - [W3C CSS Validator Results](https://github.com/iftec/The-Art-of-Poi/blob/main/documentation/css%20validation.png)
+
+- [W3 Markup Validator](https://validator.w3.org/)
+    - [W3 Markup Validator Results](https://github.com/iftec/The-Art-of-Poi/blob/main/documentation/html%20validation.png)
+    **Known Bugs and Fixes**
+    - Some images not displaying when uploaded to live site.
+        - Correction of capitalization on image names  fixed the issue.
+    - Text cropped on hero text box when scaled down to galaxy Fold.
+        - Re-size font to .7rem to correct this.
+
+    - Hamburger menu nav links taking up to much screen width.
+        - Adjusted width to 40% to fix the issue.
+    - Message box in form to large at 345px.
+       - Adjusted input form width to fix the issue.
+    - Footer not displaying correctly on resize.
+        - Rebuilt footer using grid layout.
+    - Hamburger menu links not closing after being clicked.
+        - New Javascript written to correct this.
+    
+
+
+## Deployment
+
+**Github**
+
+This project is deployed using GitHub pages using the following process,
+
+**Deploying a GitHub Repository via GitHub Pages**
+
+    1. In your Repository section, select the Repository you wish to deploy.
+    2. In the top horizontal Menu, locate and click the Settings link.
+    3. Inside the Setting page, around halfway down locate the GitHub Pages Section.
+    4. Under Source, select the None tab and change it to Master and click Save.
+    5. Finally once the page resets scroll back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". It can take time for the link to open your project initially, so please don't be worried if it down not load immediately.
+
+**Forking the Github Repository.**
+
+You can fork a GitHub Repository to make a copy of the original repository to view or make changes without it affecting the original repository.
+
+    1. Find the GitHub repository.
+    2. At the top of the page to the right, under your account, click the Fork button.
+    3. You will now have a copy of the repository in your GitHub account. 
+
+**Making a Local Clone.**
+
+    1. Find the GitHub Repository.
+    2. Click the Code button
+    3. Copy the link shown.
+    4. In Gitpod, change the directory to the location you would like the cloned directory to be located.
+    5. Type git clone, and paste the link you copied in step 3.
+    6. Press Enter to have the local clone created.
+
+
+## Acknowledgements
+
+ - some text
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
