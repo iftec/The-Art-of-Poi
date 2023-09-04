@@ -267,22 +267,23 @@ You can fork a GitHub Repository to make a copy of the original repository to vi
 ## Acknowledgements
 
 - **Code**
-Hamburger Menu adapted from [ Goose](https://medium.com/@anonymousgoose0)
 
-Javascript for hamburger menu written by Dan Ryan
+    - Hamburger Menu adapted from [ Goose](https://medium.com/@anonymousgoose0)
 
-Contact form adapted from [Code Institute](https://codeinstitute.net/)
+    - Javascript for hamburger menu written by Dan Ryan
 
- - **Media**
-Images used from the following sites:
+    - Contact form adapted from [Code Institute](https://codeinstitute.net/)
 
-https://www.pexels.com/
+- **Media**
+    - Images used from the following sites:
 
-https://spinpoi.com/
+        - https://www.pexels.com/
 
-https://www.shutterstock.com/
+        - https://spinpoi.com/
 
-https://www.firetoys.co.uk/
+        - https://www.shutterstock.com/
 
-https://www.lighttoys.cz/
+        - https://www.firetoys.co.uk/
+
+        - https://www.lighttoys.cz/
 
