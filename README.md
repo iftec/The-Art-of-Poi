@@ -138,17 +138,18 @@ The main one being that I was going to create seperate pages instead of one scro
 ## Surface Plane
 I made a decision at the start of this project that I would try and challange myself and not use Bootstrap in this first project. I'm glad to say, that I did not and I think it has helped me understand the core of HTML and CSS better.
 
-Features present across the project,
-Navbar – Responsive, and fixed so always preasent, it toggles to a hamburger menu at a width of 600pixels. Social media links opening in a new tab to the relevant page olong with inline links.
-Large hero image to draw in the user’s attention. All images are bright and colorful and used to add a humane feel across the project.
-I've used a dark background for users to feel less tired while reading,  I think this also helps images to stand out versus a white background.
-Contrast of fonts between header and proceeding text. Helps the pages as a whole look less monotonous, and the Syncopate font helps capture the user’s attention.
-Consistent round images used throughout the project are inline with the shape of the Poi, again gives a consistancy to the project for the user and helps the user take a break from the text and help the paragraphs appear smaller. All images are relevant to the content.
-Features left to implement
+**Features present across the project,**
+
+- Navbar – Responsive, and fixed so always preasent, it toggles to a hamburger menu at a width of 600pixels. 
+- Social media links opening in a new tab to the relevant page olong with inline links.
+- Large hero image to draw in the user’s attention. All images are bright and colorful and used to add a humane feel across the project.
+- I've used a dark background for users to feel less tired while reading,  I think this also helps images to stand out versus a white background.
+- Contrast of fonts between header and proceeding text. Helps the pages as a whole look less monotonous, and the Syncopate font helps capture the user’s attention.
+- Consistent round images used throughout the project are inline with the shape of the Poi, again gives a consistancy to the project for the user and helps the user take a break from the text and help the paragraphs appear smaller. All images are relevant to the content.
+**Features left to implement**
 
 Once I have some understanding of JavaScript, I would like to implement it into this project more, and make it more interactive and less static.
-- Have the form send an email to me so that I can receive the message sent, for now the form responds from Code Institute
-with some form of verification for users who send a message and click the send message button.
+- Have the form send an email to me so that I can receive the message sent, for now the form responds from Code Institute with some form of verification for users who send a message.
 - I would like to have some of the images across the project be videos or Gifs. Again, it would help the site be less static and stand out more.
 - A Light/Dark mode toggle. While collecting feedback, overall a lot of people preferred the project being dark and less straining on the eyes, especially because it makes the images stand ou more and the text easier to read. 
 - Adding online lessons would attract more people.
