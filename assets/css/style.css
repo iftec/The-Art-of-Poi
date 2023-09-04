@@ -214,12 +214,14 @@ header {
 
  #feedback {
     height: 100px;
+    color:rgb(22, 22, 22);
     
 }
 
  .input-form {
     height: 25px;
     width: 200px;
+    color:rgb(22, 22, 22);
 }
  
   /*Footer styling below*/
