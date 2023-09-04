@@ -132,6 +132,62 @@ Bristol Art of Poi Wireframes
 ![Logo](https://github.com/iftec/The-Art-of-Poi/blob/main/documentation/wireframe%20view.png?raw=true)
 
 
-There are some differences from the wireframes to the project, but not as many as i expected.
+There are some differences from the wireframes to the project, but not as many as I expected.
 The main one being that I was going to create seperate pages instead of one scrolling page.
- Looking back, I definitely could have spent more time planning my approach, but this project was a big learning experience for me, and I can use this as a platform to spend more time and effort designing future projects.
+ Looking back, I definitely could have spent more time planning my approach, this project was a big learning curve for me, and I can use this as a platform to spend more time and effort designing future projects.
+## Surface Plane
+Features present across the project,
+
+Navbar – Responsive, and fixed so always preasent, it toggles to a hamburger menu at a width of 600pixels. Social media links opening in a new tab to the relevant page olong with inline links.
+Large hero image to draw in the user’s attention. All images are bright and colorful and used to add a humane feel across the project.
+I've used a dark background for users to feel less tired while reading,  I think this also helps images to stand out versus a white background.
+Contrast of fonts between header and proceeding text. Helps the pages as a whole look less monotonous, and the Syncopate font helps capture the user’s attention.
+Consistent round images used throughout the project are inline with the shape of the Poi, again gives a consistancy to the project for the user and helps the user take a break from the text and help the paragraphs appear smaller. All images are relevant to the content.
+Features left to implement
+
+Once I have some understanding of JavaScript, I would like to implement it into this project more, and make it more interactive and less static.
+Have the form send an email to me so that I can receive the message sent, for now the form responds from Code Institute
+with some form of verification for users who send a message and click the send message button.
+I would like to have some of the images across the project be videos or Gifs. Again, it would help the site be less static and stand out more.
+A Light/Dark mode toggle. While collecting feedback, overall a lot of people preferred the project being dark and less straining on the eyes, especially because it makes the images stand ou more and the text easier to read. 
+Also adding online lessons would attract more people.
+A genuine Web domain and a custom URL would help the user experience seeing a more professional looking URL.
+
+## Technologies Used
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+Used as the basic building block for the project and to structure the content.
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+Used to style web content across the website.
+
+- [Javascript](https://www.javascript.com/)
+
+Used for the navbar for extending collapse plugin to implement responsive behavior.
+
+- [Google Fonts](https://fonts.google.com)
+
+Used to obtain the fonts linked in the header, fonts used were Syncopte and Arial
+
+- [Fontawesome](https://https://fontawesome.com/)
+
+Used to obtain the social media icons used in the footer.
+
+- [Google Developer Tools](https://developer.chrome.com/docs/devtools/)
+
+Used as a primary method of fixing issues, finding bugs, and testing responsiveness across the project.
+
+- [Github](https://github.com/)
+
+Used to store code for the project after being pushed.
+- [Github Desktop](https://desktop.github.com/)
+
+Used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+- [Balsamiq](https://balsamiq.com/)
+
+Used to create the wireframes for the project.
+
+- [Grammarly](https://app.grammarly.com/)
+
+Used to fix grammar errors across the project.
+## Testing
