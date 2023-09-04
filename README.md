@@ -8,7 +8,7 @@
 
 # Introduction
 Welcome to my first milestone project, The Art of Poi.
-Earlier this year I enrolled in a Full Stack Development course, with the hopes of changing my career and becoming a programmer. Up to this point in my career, I have worked in multiple sectors, of IT  and have always flirted around the side of coding but never really understood it properly
+Earlier this year I enrolled in a Full Stack Development course, with the hopes of changing my career and becoming a programmer. Up to this point in my career, I have worked in multiple sectors, of IT and have always flirted around the side of coding but never really understood it properly
 The purpose of this project is to show my learning and understanding of the modules and languages I have learned, to implement them into a project to showcase my skills in design and development. This project is a functional static-website, built mainly with HTML and CSS.
 I will outline the steps I used to build the project and the philosophy used to plan the project, my sources of inspiration, and my focus on user experience design.
 Thank you for viewing my project and I hope you enjoy the project as much as I did designing and developing it.
@@ -196,10 +196,10 @@ The project was tested on the following browsers with success, Google Chrome, Mi
 Project was manually tested on a Samsung Zflip 3 and a Samsung A70 with success.
 Google Chrome Developer tools were used throughout the project to help me to test the responsiveness across devices.
 Google Chrome Developer tools used to emulate devices,
-- Apple iPad
-- Apple iPad Pro
+- Apple iPad Air
+- Apple iPad Mini
 - Microsoft Surface Duo
-- Motorola G4
+- Samsung Galaxy S8
 - Samsung Galaxy S5
 - Samsung Galaxy Fold
 - Google Pixel 2/2 XL
