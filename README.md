@@ -104,7 +104,7 @@ Visiting other Poi websites also helped.
 
 Colours -
 
-Black
+Black and off Black
 Grey
 White and off White
 Black background to start with to make it more relaxing for users to read and make it less exhausting on their eyes. Also allowed for images to stand out and draw attention.
@@ -112,7 +112,9 @@ Black background to start with to make it more relaxing for users to read and ma
 Typography –
 
 Syncopate
+
 Arial
+
 I used Syncopate to offer a contrast to the Arial font, it also allowed the project to not look monotonous. Syncopate is quite easy to read and is a modern font.
 
 Consistency with the Navigation Bar and Footer elements because they will be recurring elements.Having a fixed navigation bar allowed users to have access to navigation links while scrolling through the page with social media links in the Footer.
@@ -123,3 +125,13 @@ Consistent imagery throughout the project, not only to help condense the text bu
 The text will be consistent throughout the page and the content of the page aligned to the right. So that the user feels familiar with the site as the progress down a page.
 
 Responsive across all devices, to make images scale properly and do not end up pixelated, text is readable on all devices.
+## Skeleton Plane
+Below is a link to the initial draft of the wireframes I created for the project and an initial conceptual idea of how everything would be structured and how everything would respond on different devices.
+
+Bristol Art of Poi Wireframes
+![Logo](https://github.com/iftec/The-Art-of-Poi/blob/main/documentation/wireframe%20view.png?raw=true)
+
+
+There are some differences from the wireframes to the project, but not as many as i expected.
+The main one being that I was going to create seperate pages instead of one scrolling page.
+ Looking back, I definitely could have spent more time planning my approach, but this project was a big learning experience for me, and I can use this as a platform to spend more time and effort designing future projects.
