@@ -99,15 +99,15 @@ Having a phased approach to the project may allows users to feel more interested
 
 
 ## Structure Plane
-Knowing from the beginning that the project was going to be visual, the biggest hurdle was going to be how to keep users interested and to not be put off by the text. Sources for inspiration to overcome this came from my mentor Harry Dhillon and Steve Krug's "Don't Make Me Think".
+Knowing from the beginning that the project was going to be visual, the biggest hurdle was going to be how to keep users interested and not be put off by the text. Sources for inspiration to overcome this came from my mentor Harry Dhillon and Steve Krug's "Don't Make Me Think".
 Visiting other Poi websites also helped.
 
-Colours -
+Colors -
 
-Black and off Black
-Grey
-White and off White
-Black background to start with to make it more relaxing for users to read and make it less exhausting on their eyes. Also allowed for images to stand out and draw attention.
+- Black and off Black
+- Grey
+- White and off White
+A black background to start with makes it more relaxing for users to read and makes it less exhausting for their eyes. Also allowed for images to stand out and draw attention.
 
 Typography –
 
@@ -117,14 +117,14 @@ Arial
 
 I used Syncopate to offer a contrast to the Arial font, it also allowed the project to not look monotonous. Syncopate is quite easy to read and is a modern font.
 
-Consistency with the Navigation Bar and Footer elements because they will be recurring elements.Having a fixed navigation bar allowed users to have access to navigation links while scrolling through the page with social media links in the Footer.
+Consistency with the Navigation Bar and Footer elements because they will be recurring elements. Having a fixed navigation bar allowed users to have access to navigation links while scrolling through the page with social media links in the Footer.
 
 
 Consistent imagery throughout the project, not only to help condense the text but to also give the user something to view and feel as though they can take a breath. Images should be relatable to the content on the page and not feel forced or out of place.
 
-The text will be consistent throughout the page and the content of the page aligned to the right. So that the user feels familiar with the site as the progress down a page.
+The text will be consistent throughout the page and the content of the page aligned to the right. So that the user feels familiar with the site as they progress down a page.
 
-Responsive across all devices, to make images scale properly and do not end up pixelated, text is readable on all devices.
+Responsive across all devices, to make images scale properly and not end up pixelated, text is readable on all devices.
 ## Skeleton Plane
 Below is a link to the initial draft of the wireframes I created for the project and an initial conceptual idea of how everything would be structured and how everything would respond on different devices.
 
@@ -133,8 +133,8 @@ Bristol Art of Poi Wireframes
 
 
 There are some differences from the wireframes to the project, but not as many as I expected.
-The main one being that I was going to create seperate pages instead of one scrolling page.
- Looking back, I definitely could have spent more time planning my approach, this project was a big learning curve for me, and I can use this as a platform to spend more time and effort designing future projects.
+The main one was that I was going to create separate pages instead of one scrolling page.
+ Looking back, I definitely could have spent more time planning my approach, This project was a big learning curve for me, and I can use this as a platform to spend more time and effort designing future projects.
 ## Surface Plane
 I made a decision at the start of this project that I would try and challange myself and not use Bootstrap in this first project. I'm glad to say, that I did not and I think it has helped me understand the core of HTML and CSS better.
 
@@ -195,9 +195,9 @@ Used to create the wireframes for the project.
 Used to fix grammar errors across the project.
 ## Testing
 The project was tested on the following browsers with success, Google Chrome, Microsoft Edge, Mozilla Firefox, and Opera.
-Project was manually tested on a Samsung Zflip 3 and a Samsung A70 with success.
-Google Chrome Developer tools were used throughout the project to help me to test the responsiveness across devices.
-Google Chrome Developer tools used to emulate devices,
+The project was manually tested on a Samsung Zflip 3 and a Samsung A70 with success.
+Google Chrome Developer tools were used throughout the project to help me test the responsiveness across devices.
+Google Chrome Developer tools are used to emulate devices,
 - Apple iPad Air
 - Apple iPad Mini
 - Microsoft Surface Duo
@@ -205,7 +205,7 @@ Google Chrome Developer tools used to emulate devices,
 - Samsung Galaxy S5
 - Samsung Galaxy Fold
 - Google Pixel 2/2 XL
-- Apple iphone 4
+- Apple iPhone 4
 - Apple iPhone 5/SE
 - Apple iPhone 6/7/8
 - Apple iPhone 6/7/8 Plus
@@ -218,20 +218,54 @@ I used the W3C Markup Validator and W3C CSS Validator to validate the project an
     - [W3 Markup Validator Results](https://github.com/iftec/The-Art-of-Poi/blob/main/documentation/html%20validation.png)
 
     **Known Bugs and Fixes**
-    - Some images not displaying when uploaded to live site.
-        - Correction of capitalization on image names  fixed the issue.
-    - Text cropped on hero text box when scaled down to galaxy Fold.
+    - Some images not displaying when uploaded to the live site.
+        - Correction of capitalization on image names fixed the issue.
+    - Text cropped on the hero text box when scaled down to Galaxy Fold.
         - Re-size font to .7rem to correct this.
 
-    - Hamburger menu nav links taking up to much screen width.
+    - Hamburger menu nav links taking up too much screen width.
         - Adjusted width to 40% to fix the issue.
-    - Message box in form to large at 345px.
+    - Message box in the form to large at 345px.
        - Adjusted input form width to fix the issue.
     - Footer not displaying correctly on resize.
         - Rebuilt footer using grid layout.
     - Hamburger menu links not closing after being clicked.
         - New Javascript written to correct this.
-    
+
+
+## Testing User Stories  from User Experience (UX) Section
+**First-time visitor goals:**
+
+- As a first-time visitor, I want to easily understand the purpose of the project from the moment I get to the landing page.
+
+      -  Upon entering the site the user can see the Hero image and the text box with "Learn the Art of Poi"
+
+ - As a first-time visitor, I want to easily be able to navigate the page, When I reach the bottom of a page is there some way to move forward without scrolling back up?
+
+       - The Nav bar is fixed at the top of the screen and is visible while scrolling to the bottom of the page. 
+- As a first-time visitor, I want everything I am reading to be reinforced or supported in some way, quotes, stories, or images.
+
+      - As the user progresses through the page the images have a relationship to the text being read.
+- As a first-time visitor, I want to feel as though I am progressing through the page and not feel overwhelmed or lost.
+
+      - The articles are broken into small sections and at no point is the user overwhelmed with a large amount of text.
+
+- As a first-time visitor, I want the project to not become too exhausting to look at.
+
+      - Each page section only contains a minimal amount of necessary information to accomplish its goals
+- As a first-time visitor, I want to be able to pick up from where I left off, can the structure of a page be in a way where I can simply just carry on if I took a break?
+
+      - This is easily accomplished due to the layout and the Nav bar being visible at all times
+
+**Returning visitor goals:**
+
+- As a returning visitor, I want to be able to get in contact with the creator or creators in some way, social links, or contact page.
+
+      - A returning visitor can contact the creator using the contact form or the social links in the footer section at the bottom of the page.
+
+- As a returning visitor, I want to be able to find out where the source of the information came from.
+
+      - Links in the body of the text take the user to the source of the information provided.
 
 
 ## Deployment
@@ -289,3 +323,12 @@ You can fork a GitHub Repository to make a copy of the original repository to vi
 
         - https://www.lighttoys.cz/
 
+
+
+Thanks to my mentor who has been  helpful and approchable throughout this project.
+
+Likewise, to the tutors for helping through to completion on this.
+
+And to the teachers at the City of Bristol College.
+
+Many Thanks.
