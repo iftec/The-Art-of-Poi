@@ -108,6 +108,7 @@ Colors -
 - Grey
 - White and off White
 
+
 A black background to start with makes it more relaxing for users to read and makes it less exhausting for their eyes. Also allowed for images to stand out and draw attention.
 
 Typography –
