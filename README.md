@@ -326,6 +326,7 @@ You can fork a GitHub Repository to make a copy of the original repository to vi
         - https://www.lighttoys.cz/
 
 
+Thanks to Dr Kate Riegle for allowing me to refere to the health studies done on Poi and for the text relating to the history and benefits of Poi.
 
 Thanks to my mentor who has been  helpful and approchable throughout this project.
 
